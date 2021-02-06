@@ -1,0 +1,10 @@
+td {
+  width: 25px;
+  height: 25px;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
